@@ -9,7 +9,6 @@
 #include <ESP8266WiFi.h>
 #include "AESLib.h" //From https://github.com/kakopappa/arduino-esp8266-aes-lib
 #endif
-#include "AESLib.h" //From https://github.com/kakopappa/arduino-esp8266-aes-lib
 
 #ifndef USE_RAW_801_11
     #include "espnowBroadcast.h"
